@@ -1,1 +1,3 @@
 # Jet-Impact-Program
+This program  evaluates the impact of a jet and the reaction force produced by the change in momentum of a flowing fluid, which is deflected upon impact with a solid surface. The program would use the fluid's density, the dimensions of the jet, the time it takes the fluid to travel, and shape of the surface to produce the fluid flowrate, velocity, and reaction force.
+The flowrate and velocity are determined using values input by the user for the area and volume of the jet nozzle as well as the time it takes for the fluid to hit the deflector. The flowrate is the volume over time and the velocity is the flowrate over the area. Then, depending on the type of deflected input, the force of the jet can be determined.
